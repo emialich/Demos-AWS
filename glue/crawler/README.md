@@ -12,3 +12,5 @@ Objetivos do laboratório:
 - Realizar consultas no AWS Glue Data Catalog utilizando o Amazon Athena.
 
 > **Observação:** Esse laboratório pode incorrer custos, tome o devido cuidado e responsabilidade ao seguir esses passos
+
+[Step 1 - Configuração de Dados do Crawler](https://github.com/emialich/main/blob/main/glue/crawler/1-DataSetup.md)
