@@ -16,3 +16,5 @@ Objetivos do laboratório:
 [Step 1 - Configuração de Dados do Crawler](https://github.com/emialich/main/blob/main/glue/crawler/1-DataSetup.md)
 
 [Step 2 - Glue Intro + Setup Cralwer](https://github.com/emialich/main/blob/main/glue/crawler/2-CrawlerSetup.md)
+
+[Step 3 - ETL + Search with Athena](https://github.com/emialich/main/blob/main/glue/crawler/3-ETL%20Transform.md)
