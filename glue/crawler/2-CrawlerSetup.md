@@ -42,7 +42,7 @@ Quando um crawler é executado, ele segue estas etapas para interrogar um armaze
 
 > Bancos de dados são usados para organizar tabelas de metadados no AWS Glue. Quando você define uma tabela no AWS Glue Data Catalog, você a adiciona a um banco de dados. Uma tabela pode estar em apenas um banco de dados.
 
-Seu banco de dados pode conter tabelas que definem dados de diversos armazéns de dados diferentes. Esses dados podem incluir objetos no Amazon Simple Storage Service (Amazon S3) e tabelas relacionais no Amazon Relational Database Service.
+> Seu banco de dados pode conter tabelas que definem dados de diversos armazéns de dados diferentes. Esses dados podem incluir objetos no Amazon Simple Storage Service (Amazon S3) e tabelas relacionais no Amazon Relational Database Service.
 
 ![image](https://github.com/user-attachments/assets/467db416-5804-446d-8a7b-ff64ce69d3df)
 
