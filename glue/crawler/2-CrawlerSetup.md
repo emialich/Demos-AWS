@@ -38,7 +38,7 @@ Quando um crawler é executado, ele segue estas etapas para interrogar um armaze
 > Por exemplo, se quisessemos apenas os dados de 2010 para frente, fariamos os seguintes padrões de exclusão: `19**` e `200*`
 5. Defina a IAM Role associada ao Crawler (crie uma ou selecione uma já pré-criada)
 > A policy gerenciada `AWSGlueServiceRole` é suficiente, caso opte por criar uma política customizada. Certifique-se também que o Glue terá acesso ao bucket, por meio de uma política de allow ou uma bucket policy que permita como tal.
-6. Defina o local onde será armazenado a saída e outras configurações. Especifique o banco dados (crie um do zero)
+6. Defina o local onde será armazenado a saída e outras configurações. Especifique o banco dados (crie um do zero) como destino. Execute o crawler.
 
 > Bancos de dados são usados para organizar tabelas de metadados no AWS Glue. Quando você define uma tabela no AWS Glue Data Catalog, você a adiciona a um banco de dados. Uma tabela pode estar em apenas um banco de dados.
 
