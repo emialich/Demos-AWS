@@ -14,3 +14,4 @@ Objetivos do laboratório:
 > **Observação:** Esse laboratório pode incorrer custos, tome o devido cuidado e responsabilidade ao seguir esses passos
 
 [Step 1 - Configuração de Dados do Crawler](https://github.com/emialich/main/blob/main/glue/crawler/1-DataSetup.md)
+[Step 2 - Glue Intro + Setup Cralwer](https://github.com/emialich/main/blob/main/glue/crawler/2-CrawlerSetup.md)
